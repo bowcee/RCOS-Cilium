@@ -1,3 +1,16 @@
 Documentation
 
-What is a Kubernetes Cluster?
+Install terraform
+- brew tap hashicorp/tap
+- brew install hashicorp/tap/terraform
+
+Install Kubernetes
+- brew install kubectl
+
+Install docker (driver for Minikube)
+
+Install minikube (deploy Kubernetes cluster on local machine)
+- minikube start
+
+Use minikube to access cluster
+- kubectl get po -A
