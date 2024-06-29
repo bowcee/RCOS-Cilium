@@ -1,0 +1,7 @@
+Test Suite
+
+- Different MTU sizes
+- Different queue sizes on bandwidth & latency
+- Different load balancing settings
+- Enabling/disabling encryption on CPU
+- Different policy enforcement settings
